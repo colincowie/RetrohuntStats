@@ -14,10 +14,10 @@ User Input:
 
 ![](images/demo1.png)
 
-![](images/demo2.png)
+![](images/demo2.PNG)
 
-![](images/demo3.png)
+![](images/demo3.PNG)
 
-![](images/demo4.png)
+![](images/demo4.PNG)
 
 ![](images/demo5.png)
